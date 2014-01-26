@@ -3,9 +3,9 @@ ForkMeForkYou
 
 A lab on using Git and GitHub for COMP 20: Web Programming
 
-On Jan 20, everything was removed from spring 2013.
-On Jan 26, README was updated
-on Jan 25, new assets were added, and smiley was removed
-on Jan 17, an image was added
-on Jan 16, a “Phrase That Pays…” was added
-on Jan 16, the first commit occurred and README was added
+On Jan 16, 2013, text was updated, a “Phrase That Pays…” was added, and the first commit occurred, and README was added
+On Jan 17, 2013, an image was added
+On Jan 24, 2013, new assets were added, smiley was removed
+On Jan 26, 2013, README was updated
+On Jan 20, 2014, everything was removed from spring 2013
+
